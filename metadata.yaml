@@ -1,0 +1,48 @@
+_repo: Little-Johannes_40656
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+  translator:
+    agent_name: Bell, Clara
+    birthdate: 1834
+    deathdate: 1927
+    gutenberg_agent_id: '1801'
+    url: http://www.gutenberg.org/2009/agents/1801
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eeden, Frederik van
+    aliases:
+    - Eeden, Frederik Willem van
+    - Van Eeden, Frederik
+    - Paradijs, Cornelis
+    - Eeden, Frederick van
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '2981'
+    url: http://www.gutenberg.org/2009/agents/2981
+    wikipedia: http://en.wikipedia.org/wiki/Frederik_van_Eeden
+description: ''
+gutenberg_issued: '2012-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40656'
+  lccn: '19008442'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch fiction -- Translations into English'
+- !lcc 'PT'
+title: Little Johannes
+url: http://www.gutenberg.org/ebooks/40656
